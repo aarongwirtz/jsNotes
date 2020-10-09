@@ -1,0 +1,58 @@
+/* div{
+    border: 10px solid black;
+    border-radius: 1em;
+    background-color: gray;
+    width: 100%;
+}
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+h3{
+    color: blue;
+}
+p{
+    color: red;
+}
+.truth{
+    border: 0.25em solid lightgreen;
+    background-color: lightgray;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+    width: 30%;
+}
+*/
+
+/* #truthLie{
+    width:100%;
+    text-align: center;
+    background-color: gray;
+} */
+
+h1{
+    color:lightgreen;
+    text-align:center;
+}
+h3{
+    color: blue;
+    font-weight: 1;
+}
+p{
+    color: red;
+}
+#truthLie {
+    border: 3px solid black;
+    border-radius: 1em;
+    background-color: gray;
+    padding: 1em;
+    text-align: center;
+}
+.option{
+    border: 1px solid black;
+    border-radius: 1em;
+    background-color: lightgray;
+    text-align:center;
+    width: 33%;
+    display: inline-block;
+}
