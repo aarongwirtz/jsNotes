@@ -26,7 +26,7 @@ let capName;
 
 for (let i in name) {
     if (i == 0){
-        capName = name[i].toUppserCase();
+        capName = name[i].toUpperCase();
     }
         else {
             capName += name[i].toLowerCase();
