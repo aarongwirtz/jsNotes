@@ -24,3 +24,16 @@ let age = 30;
             : (age >= 21) ? console.log("Yay! You can drink!")
             : (age >= 18) ? console.log("Yay! You can vote!")
             : console.log("Sorry, you're too young to do anything fun..")
+
+
+
+let age = 30;
+
+(age >= 40) 	? console.log("you are old")
+        : (age >= 35) ? console.log("you are middle aged")
+        : (age >= 25) ? console.log("you are young")
+        : (age >= 20) ? console.log("you are a baby")
+        : console.log("you are still in the womb") 
+
+
+        
